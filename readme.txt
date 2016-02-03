@@ -1,0 +1,1 @@
+Sr5 sprite helper app. Compiles and registers a sprite with only a press of a button.
